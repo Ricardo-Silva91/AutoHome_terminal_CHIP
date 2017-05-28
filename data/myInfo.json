@@ -1,0 +1,1 @@
+{"id": "0", "job": "I'm just a template", "pins": [{"number": 0, "op": "out", "desc": "doing nothing", "currentState": "LOW", "currentValue": 0, "realName": "XIO-P0"}]}
